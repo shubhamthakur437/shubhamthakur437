@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubhamthakur437
+- 👋 Hi, I’m Shubham Thakur.
 - 👀 I’m interested in hard code, playing mobile games, and to watch korean drama
 - 🌱 I’m currently learning React Js and Node Js. 
 - 💞️ I’m looking to collaborate on making E-commerce Store.
